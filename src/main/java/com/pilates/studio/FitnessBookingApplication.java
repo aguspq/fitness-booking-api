@@ -1,13 +1,13 @@
-package com.pilates.gestion_centros;
+package com.pilates.studio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GestionCentrosApplication {
+public class FitnessBookingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GestionCentrosApplication.class, args);
+		SpringApplication.run(FitnessBookingApplication.class, args);
 	}
 
 }

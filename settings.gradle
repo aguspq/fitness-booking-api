@@ -4,4 +4,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'gestion-centros'
+rootProject.name = 'fitness-booking-api'

@@ -1,10 +1,10 @@
-package com.pilates.gestion_centros;
+package com.pilates.studio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GestionCentrosApplicationTests {
+class FitnessBookingApplicationTests {
 
 	@Test
 	void contextLoads() {
